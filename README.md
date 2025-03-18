@@ -2,6 +2,8 @@
 
 A simple real-time chat application built using React (with TypeScript), Socket.IO, and Express.
 
+![image](https://github.com/user-attachments/assets/6f5b6de3-3266-40df-92e8-a2bbbeb5d60c)
+
 ## Features
 - Real-time chat functionality
 - Modern UI with MUI components
@@ -57,6 +59,6 @@ This is an open-source project. Contributions are welcome! Please fork the repos
 ## Contact
 For any inquiries, feel free to reach out to me at [hemanthmarisetti555@gmail.com](mailto:hemanthmarisetti555@gmail.com).
 
-![image](https://github.com/user-attachments/assets/6f5b6de3-3266-40df-92e8-a2bbbeb5d60c)
+
 
 
